@@ -5,7 +5,7 @@
   "packages": [
     {
       "url": "https://github.com/WeTransfer/WeScan.git",
-      "summary": "WeScan",
+      "summary": "WeScan"
     },
     {
       "url": "https://github.com/Alamofire/Alamofire.git"
