@@ -1,0 +1,17 @@
+{
+  "name": "Mattia Package Collection",
+  "overview": "This is a sample package collection listing made-up packages.",
+  "keywords": ["sample package collection"],
+  "packages": [
+    {
+      "url": "https://github.com/WeTransfer/WeScan.git",
+      "summary": "WeScan"
+    },
+    {
+      "url": "https://github.com/Alamofire/Alamofire.git"
+    }
+  ],
+  "author": {
+    "name": "Mattia Pellegrini"
+  }
+}
